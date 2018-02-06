@@ -75,7 +75,7 @@ vmap <silent> <C-l> :s/^/# / <bar> nohlsearch <CR>
 nmap <silent> <C-k> :s/^# // <bar> nohlsearch <CR>
 vmap <silent> <C-k> :s/^# // <bar> nohlsearch <CR>
  
-set lines=40 columns=165
+"set lines=40 columns=165
 
 " FILE TYPE PLUGIN
 filetype plugin indent on
